@@ -1,7 +1,9 @@
+import Profile from "./Profile/profile";
+
 const App = () => {
   return (
 <div>
-  <header></header>
+  <Profile />
 </div>
   );
 };
